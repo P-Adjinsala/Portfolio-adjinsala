@@ -37,13 +37,5 @@ Personal portfolio of **Pantouin Adjinsala** — university lecturer, data scien
 - **Contact** — Form + contact info on navy background
 - **Footer** — Brand + links
 
-## Deploy
-
-```bash
-# Drag & drop the folder on netlify.com/drop
-# Or connect this repo on Netlify → publish directory: .
-```
-
----
 
 **Author:** [P-Adjinsala](https://github.com/P-Adjinsala) · AfricTivistes CitizenLab Cameroun
