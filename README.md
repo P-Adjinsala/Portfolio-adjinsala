@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Deployed-Netlify-00C7B7?style=flat&logo=netlify)
 
-**🔗 Live :** [adjinsala.netlify.app](https://adjinsala.netlify.app)
+**🔗 Live :** [adjinsala.netlify.app](https://mr-adjinsala.netlify.app/)
 
 ---
 
